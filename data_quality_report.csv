@@ -1,0 +1,38 @@
+﻿category,item,value,detail
+dataset,row_count,33696013.0,
+dataset,column_count,19.0,
+dataset,duplicate_row_count,0.0,
+dataset,duplicate_row_ratio_pct,0.0,
+missing,module(equipment),0.0,"missing_ratio_pct=0.0, dtype=str"
+missing,timestamp,0.0,"missing_ratio_pct=0.0, dtype=datetime64[ms]"
+missing,localtime,0.0,"missing_ratio_pct=0.0, dtype=datetime64[us]"
+missing,operation,0.0,"missing_ratio_pct=0.0, dtype=int64"
+missing,voltageR,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,voltageS,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,voltageT,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,voltageRS,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,voltageST,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,voltageTR,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,currentR,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,currentS,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,currentT,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,activePower,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,powerFactorR,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,powerFactorS,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,powerFactorT,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,reactivePowerLagging,0.0,"missing_ratio_pct=0.0, dtype=float64"
+missing,accumActiveEnergy,0.0,"missing_ratio_pct=0.0, dtype=int64"
+interval,1(PM-3),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,11(우측분전반1),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,12(4호기),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,13(3호기),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,14(2호기),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,15(예비건조기),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,16(호이스트),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,17(6호기),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,18(우측분전반2),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,2(L-1전등),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,3(분쇄기(2)),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,4(분쇄기(1)),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+interval,5(좌측분전반),720.0,"is_all_5sec=False, min=0.0, median=5.0, max=5.0"
+suspicious,accumActiveEnergy decreased,9347.0,
